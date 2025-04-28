@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhoomibalani" alt="bhoomibalani" /></a> </p>
 
-- 🔭 I’m currently working on [Wanderlust](https://github.com/bhoomibalani/Wanderlust)
+- 🔭 I’m currently working on [Aroma](https://github.com/bhoomibalani/Aroma_Backend)
 
-- 🌱 I’m currently learning **NODEJS, JAVASCRIPT**
+- 🌱 I’m currently learning **NODEJS, JAVASCRIPT,EXPRESS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/bhoomibalani](https://github.com/bhoomibalani)
 
