@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhoomibalani" alt="bhoomibalani" /></a> </p>
 
-- 🔭 I’m currently working on [Jobsy](https://github.com/bhoomibalani/AI-salesAgent)
+- 🔭 I’m currently working on [AI SALES AGENT](https://github.com/bhoomibalani/AI-salesAgent)
 
 - 🌱 I’m currently learning **RAG , AGENTIC AI **
 
