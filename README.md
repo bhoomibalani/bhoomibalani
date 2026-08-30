@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhoomibalani" alt="bhoomibalani" /></a> </p>
 
-- 🔭 I’m currently working on [Jobsy](https://github.com/bhoomibalani/Jobsy_backend)
+- 🔭 I’m currently working on [Jobsy](https://github.com/bhoomibalani/AI-salesAgent)
 
-- 🌱 I’m currently learning **NODEJS, JAVASCRIPT,EXPRESS**
+- 🌱 I’m currently learning **RAG , AGENTIC AI **
 
 - 👨‍💻 All of my projects are available at [https://github.com/bhoomibalani](https://github.com/bhoomibalani)
 
